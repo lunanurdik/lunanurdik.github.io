@@ -1,0 +1,19 @@
+body{background-color: white;margin: 0;
+text-align: center;
+font-family: 'Hachi Maru Pop', cursive;
+background-image: url("https://pskurs.ru/uploads/posts/2015-11/1446714368_21.jpg");
+background-size: cover;}
+hr{border-style: dotted;
+border-color: white;
+border-width: medium;}
+h2{color: #bada55;}
+h4{color: #bada55;}
+h3{color: #bada55;}
+.word{color: #bada55;}
+.photo{position: relative; top: 20px; border-radius: 50%}
+.box1{height: 300px; margin: 10px;}
+.box2{height: 300px; margin: 10px;}
+.box3{height: 300px; margin: 10px;}
+.box4{height: 300px; margin: 10px;}
+.box5{height: 300px; margin: 10px;}
+.uzor{position: relative; height: 500px; width:400px; left: 500px; bottom: 390px}
