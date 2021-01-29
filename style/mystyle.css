@@ -1,4 +1,5 @@
-body{background: linear gradient(to bottom, black, white) ;margin: 0;
+body{background-image:url("https://pskurs.ru/uploads/posts/2015-11/1446714368_21.jpg");
+margin: 0;
 text-align: center;
 font-family: 'Hachi Maru Pop', cursive;
 background-size: cover;}
@@ -16,4 +17,3 @@ h3{color: #bada55;}
 .box4{height: 300px; margin: 10px;}
 .box5{height: 300px; margin: 10px;}
 .uzor{position: relative; height: 500px; width:400px; left: 500px; bottom: 390px}
-.row{text-align: center;}
